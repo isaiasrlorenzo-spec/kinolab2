@@ -1,0 +1,19 @@
+{
+  "name": "Kino Lab - Súper Kino TV",
+  "short_name": "Kino Lab",
+  "description": "Seguimiento y análisis experimental del Súper Kino TV",
+  "start_url": "/kinolab2/",
+  "scope": "/kinolab2/",
+  "display": "standalone",
+  "background_color": "#0d1713",
+  "theme_color": "#122b23",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
